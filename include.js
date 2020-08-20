@@ -13,6 +13,13 @@ let cards = [
 		author: "AbsMechanik",
 		githubLink: "https://github.com/AbsMechanik"
 	},
+	 {
+      artName: "Romeo",
+      pageLink: "./Art/events on multiple elements (javascript)/index.html",
+      imageLink: "./Art/events on multiple elements (javascript)/romeo.gif",
+      author: "PranavHarsh",
+      githubLink: "https://github.com/PranavHarsh"
+    },
 	{
 		artName: "Christmas Lights",
 		pageLink: "./Art/Futuregit/index.html",
